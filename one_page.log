@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  4 NOV 2018 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  10 NOV 2018 13:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,14 +641,14 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(5.69046pt, 583.28151pt, 8.5359pt)
-* v-part:(T,H,B)=(0.0pt, 743.6402pt, 101.40665pt)
+* h-part:(L,W,R)=(1.42271pt, 584.70424pt, 11.38092pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=583.28151pt
+* \textwidth=584.70424pt
 * \textheight=704.63249pt
-* \oddsidemargin=-66.57953pt
-* \evensidemargin=-66.57953pt
+* \oddsidemargin=-70.84727pt
+* \evensidemargin=-70.84727pt
 * \topmargin=-109.26999pt
 * \headheight=26.0pt
 * \headsep=25.0pt
@@ -720,14 +720,14 @@ LaTeX Info: Redefining \nameref on input line 47.
 File: logo.jpeg Graphic file (type jpg)
 <use logo.jpeg>
 Package pdftex.def Info: logo.jpeg  used on input line 52.
-(pdftex.def)             Requested size: 84.57831pt x 84.57816pt.
+(pdftex.def)             Requested size: 84.7846pt x 84.78369pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--54
 
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 63.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 69.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -737,7 +737,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 69.
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 69--70
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 69--70
 [][][][][][][] 
  []
 
@@ -755,7 +755,7 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 80.
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 76--93
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 76--93
 [][][][][][][] 
  []
 
@@ -770,7 +770,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--93
  []
 
 
-Overfull \hbox (4.18723pt too wide) in paragraph at lines 76--93
+Overfull \hbox (2.7645pt too wide) in paragraph at lines 76--93
 [][] 
  []
 
@@ -785,7 +785,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--93
  []
 
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 95--96
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 95--96
 [][][][][][][] 
  []
 
@@ -795,7 +795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
  []
 
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 102--103
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 102--103
 [][][][][][][] 
  []
 
@@ -815,7 +815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
  []
 
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 119--120
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 119--120
 [][][][][][][] 
  []
 
@@ -825,7 +825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
  []
 
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 127--128
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 127--128
 [][][][][][][] 
  []
 
@@ -835,7 +835,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--128
  []
 
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 133--134
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 133--134
 [][][][][][][] 
  []
 
@@ -845,7 +845,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--134
  []
 
 
-Overfull \hbox (6.42151pt too wide) in paragraph at lines 139--140
+Overfull \hbox (6.38596pt too wide) in paragraph at lines 139--140
 [][][][][][][] 
  []
 
@@ -874,7 +874,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
 Here is how much of TeX's memory you used:
  6955 strings out of 492982
  100385 string characters out of 6134895
- 197293 words of memory out of 5000000
+ 197302 words of memory out of 5000000
  10409 multiletter control sequences out of 15000+600000
  14820 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -884,10 +884,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
 alatino/uplri8a.pfb>
-Output written on one_page.pdf (1 page, 78365 bytes).
+Output written on one_page.pdf (1 page, 78459 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
